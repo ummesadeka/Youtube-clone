@@ -12,5 +12,6 @@ This is a video streaming application.
 - Material Ui
 - Axios
 - React router
+- Rapid Api(youtube v3)
 
 ### live: https://youtube-clone-topaz-tau.vercel.app/
